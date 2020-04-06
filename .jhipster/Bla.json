@@ -1,0 +1,26 @@
+{
+    "name": "Bla",
+    "fields": [
+        {
+            "fieldName": "foo",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "bar",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20200406120500",
+    "entityTableName": "bla",
+    "dto": "mapstruct",
+    "pagination": "no",
+    "service": "serviceImpl",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "embedded": false,
+    "clientRootFolder": "",
+    "applications": "*",
+    "angularJSSuffix": "mySuffix"
+}
